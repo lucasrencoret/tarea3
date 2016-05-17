@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/Users/lucasrencoret/Desktop/Taller%20de%20integracion/Tarea3/wsdl.xml" uri="src/conf/xml-resources/web-services/NewWebServiceFromWSDL/wsdl/wsdl.xml.wsdl"/>
+    <system systemId="file:/Users/lucasrencoret/Desktop/Taller%20de%20integracion/Tarea3/airport.asmx.xml" uri="src/conf/xml-resources/web-services/Aeropuertos/wsdl/airport.asmx.xml.wsdl"/>
+    <system systemId="file:/Users/lucasrencoret/NetBeansProjects/Tarea3/airport.asmx.xml" uri="src/conf/xml-resources/web-services/NewWebServiceFromWSDL/wsdl/airport.asmx.xml.wsdl"/>
+    <system systemId="file:/Users/lucasrencoret/NetBeansProjects/Tarea3/wsdl.xml" uri="src/conf/xml-resources/web-services/NewWebServiceFromWSDL_1/wsdl/wsdl.xml.wsdl"/>
+</catalog>
